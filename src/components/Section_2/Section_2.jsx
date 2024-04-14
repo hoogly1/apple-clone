@@ -61,7 +61,7 @@ function Section_2() {
                 }}
                 className="text-6xl font-sans font-semibold"
               >
-                iPhone 15 Pro
+                iPhone 15 
               </h2>
 
               <p className="text-2xl font-normal mt-2 tracking-wider	">
